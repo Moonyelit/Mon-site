@@ -30,7 +30,7 @@
 }
 	/*Texte*/
 .sectionsplit h1 {
-    font-family:'Cooper Black', sans-serif;
+    font-family:'Cooper Std Black', sans-serif;
     font-size: 4em;
     color: #040537;
 	white-space: nowrap;
@@ -148,7 +148,7 @@
 }
 
 .apropos h2{
-	font-family:'Cooper Black', sans-serif;
+	font-family:'Cooper Std Black', sans-serif;
 	font-size: 2.5em;
 }
 
@@ -231,7 +231,7 @@
 
 .video-presentation h2 {
     text-align: right;
-	font-family:'Cooper Black', sans-serif;
+	font-family:'Cooper Std Black', sans-serif;
 	font-size: 2.5em;
 	margin-bottom: 1em;
 }
@@ -261,7 +261,7 @@
     font-size: 2.5em;
     margin-bottom: 40px;
     color: #dda55e;
-    font-family: 'Cooper Black', sans-serif;
+    font-family: 'Cooper Std Black', sans-serif;
     text-align: center;
 }
 
@@ -315,7 +315,7 @@
 
 .contact-section h2 {
     font-size: 2.5em;
-    font-family: 'Cooper Black', sans-serif;
+    font-family: 'Cooper Std Black', sans-serif;
     margin-bottom: 20px;
     z-index: 1;
 }
