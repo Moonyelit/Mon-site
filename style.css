@@ -57,7 +57,7 @@ header {
     margin-left: 50px;
 	margin-right: 50px;
     font-weight: bold;
-	font-family:'Cooper Black', sans-serif;
+	font-family:'Cooper Std Black', sans-serif;
 }
 
 nav a {
@@ -79,7 +79,7 @@ footer{
 
 .sayhello {
 	font-size: 1em;
-	font-family:'Cooper Black', sans-serif;
+	font-family:'Cooper Std Black', sans-serif;
 	color: white;
 }
 
