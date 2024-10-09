@@ -342,7 +342,6 @@ h2 {
 
 /* ------------------ DÉTAILS TIMELINE ------------------ */
 .details-content{
-    max-height: 300px;
     overflow-y: auto; 
 	display: flex;
     flex-direction: column; 
