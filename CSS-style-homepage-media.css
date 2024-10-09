@@ -399,6 +399,7 @@ form {
 
 .image{
 	width: 410px;
+    margin-left: 5em;
 }
 
 /*Video*/
@@ -538,6 +539,7 @@ form {
 
 .image{
 	width: 410px;
+    margin-left: 10em;
 }
 
 /*Video*/
@@ -654,6 +656,7 @@ form {
 
 .image{
 	width: 410px;
+    margin-left: 20em;
 }
 
 /*Video*/
@@ -726,6 +729,11 @@ form {
     left: 52%;
     transform: translate(-50%, -50%);
 }
+	
+	.image{
+		    margin-left: 25em;
+
+	}
 
 /* SECTION À PROPOS DE MOI */
 .decovideo2{
