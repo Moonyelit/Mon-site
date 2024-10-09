@@ -286,7 +286,7 @@ h2 {
 /* Styles pour les détails de la timeline */
 .details {
     display: none;
-	max-height: 0;
+	-height: 0;
 	transition: max-height 0.5s ease-out;
 	overflow: hidden;
 }
